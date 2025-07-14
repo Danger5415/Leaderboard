@@ -1,8 +1,8 @@
 Live Frontend:
-https://<your-netlify-url>.netlify.app
+https://leaderboardtask1.netlify.app/
 
 GitHub Repository:
-https://github.com/<your-username>/<repo-name>
+
 
 Features
 Add new users
